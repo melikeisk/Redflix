@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# FastAPI specific (if needed):
+*.env
+*.sqlite3  # Eğer veritabanı dosyası SQLite kullanıyorsanız
