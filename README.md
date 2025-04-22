@@ -91,7 +91,7 @@ Kullanıcının izlediği filmlere göre aynı kümede bulunan diğer kullanıc�
 
 #### İstek Gönderme:
 
-```json
+```
 POST /recommend
 {
   "user_id": 15
