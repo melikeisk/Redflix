@@ -54,7 +54,7 @@ Proje, [MovieLens 100K](https://grouplens.org/datasets/movielens/100k/) veri set
 
 ```bash
 git clone https://github.com/melikeisk/Redflix
-cd <Redflix>
+cd Redflix
 pip install -r requirements.txt
 ```
 
