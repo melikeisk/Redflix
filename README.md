@@ -53,8 +53,8 @@ Proje, [MovieLens 100K](https://grouplens.org/datasets/movielens/100k/) veri set
 ## ⚙️ Kurulum
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/melikeisk/Redflix
+cd <Redflix>
 pip install -r requirements.txt
 ```
 
