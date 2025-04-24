@@ -51,9 +51,9 @@ Proje, [MovieLens 100K](https://grouplens.org/datasets/movielens/100k/) veri set
 ---
 
 ## ⚙️ Kurulum
-
+git clone
 ```bash
-git clone https://github.com/melikeisk/Redflix
+https://github.com/melikeisk/Redflix
 ```
 ```bash
 cd Redflix
